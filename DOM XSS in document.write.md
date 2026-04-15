@@ -49,7 +49,7 @@ Because of this encoding, the injected `<script>` tag is **not interpreted as ex
 
 ## Step 3
 
-![screen](images/lab3_1.png)
+![screen](images/lab3_2.png)
 
 ### Key Observation:
 When you enter the string `"mohammad"`, it appears **twice** on the page.
